@@ -9,7 +9,7 @@ This project is a basic frontend-only school website made using HTML, CSS, and J
 - Admin Dashboard (frontend mockup)
 - Class Time Table Section
 - Sports Time Table Section
-- Fees Structure Page
+- Fees Structure Pagef
 - Responsive Layout
 
 🛠️ Technologies Used:
